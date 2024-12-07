@@ -1,0 +1,2 @@
+# Educational demo project for students <b>Web Messager</b> 
+## This is the educational project to create Web Messager, based on sockets to converse messages between clients and multithreading to process each conversation
